@@ -1,1 +1,3 @@
-# projetos-ionic2
+# Projeto Ionic
+
+- Lista de compras utilizando FrontEnd e Typescript
